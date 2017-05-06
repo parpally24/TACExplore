@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendProperties="http://www.talend.org/properties">
+  <TalendProperties:Project xmi:id="_fpq9ATIdEeehAMK9nfj9MQ" label="TAC_Explore" description="TAC_Explore" language="java" technicalLabel="TAC_EXPLORE" creationDate="2017-05-06T01:31:59.707-0400" author="_fpq9AjIdEeehAMK9nfj9MQ" productVersion="Talend Data Integration-6.3.1.20161216_1026" url="{&quot;commitLogPattern&quot;:&quot;{0}&quot;,&quot;location&quot;:&quot;https://github.com/parpally24/TACExplore.git&quot;,&quot;login&quot;:&quot;kishorebabu.par@gmail.com&quot;,&quot;passwd&quot;:&quot;gZWyx+cgUJLs1SCH3e4brA==&quot;,&quot;settings&quot;:&quot;000&quot;,&quot;storage&quot;:&quot;git&quot;}" type="DI"/>
+  <TalendProperties:User xmi:id="_fpq9AjIdEeehAMK9nfj9MQ" login="admin@company.com" firstName="admin" lastName="admin" type="DI" additionnalData="{}"/>
+</xmi:XMI>
