@@ -106,12 +106,10 @@
   </parameters>
   <node componentName="tFTPConnection" componentVersion="0.102" offsetLabelX="0" offsetLabelY="0" posX="64" posY="32">
     <elementParameter field="TEXT" name="UNIQUE_NAME" value="tFTPConnection_1" show="false"/>
-    <elementParameter field="TECHNICAL" name="PROPERTY:PROPERTY_TYPE" value="REPOSITORY"/>
-    <elementParameter field="TECHNICAL" name="PROPERTY:REPOSITORY_PROPERTY_TYPE" value="_PFCWYDQoEeerfsocIJr4ig" show="false"/>
     <elementParameter field="TEXT" name="HOST" value="&quot;192.168.1.57&quot;"/>
     <elementParameter field="TEXT" name="PORT" value="21"/>
-    <elementParameter field="TEXT" name="USER" value="&quot;kishore&quot;"/>
-    <elementParameter field="PASSWORD" name="PASS" value="zE9AJP8AXrI="/>
+    <elementParameter field="TEXT" name="USER" value="&quot;&quot;"/>
+    <elementParameter field="PASSWORD" name="PASS" value="0RMsyjmybrE="/>
     <elementParameter field="CHECK" name="SFTP" value="false"/>
     <elementParameter field="CHECK" name="FTPS" value="false"/>
     <elementParameter field="FILE" name="KEYSTORE_FILE" value="&quot;&quot;" show="false"/>

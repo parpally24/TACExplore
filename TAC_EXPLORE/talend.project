@@ -21,7 +21,6 @@
     </ItemsRelations>
     <ItemsRelations xmi:id="_ZyafEDQoEeerfsocIJr4ig">
       <baseItem xmi:id="_ZyafETQoEeerfsocIJr4ig" id="_yY0w8DQkEeerfsocIJr4ig" version="0.1" type="job"/>
-      <relatedItems xmi:id="_ZyafEjQoEeerfsocIJr4ig" id="_PFCWYDQoEeerfsocIJr4ig" version="Latest" type="property"/>
       <relatedItems xmi:id="_ZyafEzQoEeerfsocIJr4ig" id="SQLike" version="Latest" type="routine"/>
       <relatedItems xmi:id="_ZyafFDQoEeerfsocIJr4ig" id="Numeric" version="Latest" type="routine"/>
       <relatedItems xmi:id="_ZyafFTQoEeerfsocIJr4ig" id="Relational" version="Latest" type="routine"/>
